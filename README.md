@@ -12,23 +12,23 @@ Awesome papers and tools on tool learning.
 
 ## Table of Contents
 
-- [Papers](#papers)
+- [Papers](#-papers)
 
-  - [Survey](#survey)
+  - [Survey](#-survey)
 
-  - [Tool Use Via Fine-tuning](#tool-use-via-fine-tuning)
+  - [Tool Use Via Fine-tuning](#-tool-use-via-fine-tuning)
 
-  - [Tool Use Via In-Context Learning](#tool-use-via-in-context-learning)
+  - [Tool Use Via In-Context Learning](#-tool-use-via-in-context-learning)
 
-  - [Evalution](#evalution)
+  - [Evalution](#-evalution)
 
-- [Benchmark](#benchmark)
+- [Benchmark](#-benchmark)
 
-- [Contributors](#contributors)
+- [Contributors](#-contributors)
 
-## Papers
+## 📚 Papers
 
-### Survey
+### 📑  Survey
 
 - **Augmented Language Models: a Survey**, Preprint 2023.02 
 
@@ -39,7 +39,7 @@ Awesome papers and tools on tool learning.
   *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*. [[pdf](https://arxiv.org/abs/2304.08354)],[[github](https://github.com/thunlp/ToolLearningPapers/tree/master)]
 
 
-### Tool Use Via Fine-tuning
+### 🏋️‍♂️ Tool Use Via Fine-tuning
 
 - **WebGPT: Browser-assisted question-answering with human feedback** Preprint 2021.12
 
@@ -89,7 +89,7 @@ Awesome papers and tools on tool learning.
 
   *Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2306.07906)]
 
-### Tool Use via In-Context Learning
+### 📖 Tool Use via In-Context Learning
 
 - **PAL: Program-aided Language Models** Preprint 2022.11
 
@@ -167,7 +167,7 @@ Awesome papers and tools on tool learning.
 
   *Jingqing Ruan, Yihong Chen, Bin Zhang, Zhiwei Xu, Tianpeng Bao, Guoqing Du, Shiwei Shi, Hangyu Mao, Xingyu Zeng, Rui Zhao* [[pdf](https://arxiv.org/abs/2308.03427)]
 
-### Evalution
+### 🧪 Evalution
 
 - **API-Bank: A Benchmark for Tool-Augmented LLMs** Preprint 2023.04
 
@@ -194,7 +194,7 @@ Awesome papers and tools on tool learning.
   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2308.03688)]
 
 
-### Benchmark
+### ⏱️ Benchmark
 
 |     DataSet Name          | Quantity of Tools | Samples |
 | :-----------------------: | ----------------- | ------- |
@@ -204,7 +204,7 @@ Awesome papers and tools on tool learning.
 |   [**Gorilla**](https://github.com/ShishirPatil/gorilla/tree/main/data/apibench)   | 1645 | 16450 |
 
 
-### Contributors
+### 🎉 Contributors
 
 <a href="https://github.com/luban-agi/Awesome-Tool-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=luban-agi/Awesome-Tool-Learning" />

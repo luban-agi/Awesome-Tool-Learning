@@ -10,7 +10,7 @@
 
 Awesome papers and tools on tool learning.
 
-## Table of Contents
+## 📜 Table of Contents
 
 - [Papers](#-papers)
 

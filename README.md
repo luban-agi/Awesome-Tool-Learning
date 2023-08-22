@@ -4,7 +4,7 @@
 
 </div> -->
 
-# Awesome-Tool-Learning Papers
+# Awesome Tool Learning
 
 [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/luban-agi/Awesome-Tool-Learning) [![License: MIT](https://camo.githubusercontent.com/fd551ba4b042d89480347a0e74e31af63b356b2cac1116c7b80038f41b04a581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d677265656e2e737667)](https://opensource.org/licenses/MIT) <img src="https://img.shields.io/github/last-commit/tensorflow/tensorflow.svg"/> [![img](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)](https://camo.githubusercontent.com/eafac29b763e18c4d80c680d6a179f348cfa2afbc8d3a45642df19fd580d2404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d57656c636f6d652d726564)
 
@@ -22,13 +22,13 @@ Awesome papers and tools on tool learning.
 
   - [Evalution](#-evalution)
 
-- [Benchmark](#-benchmark)
+- [Applications](#-applications)
 
 - [Contributors](#-contributors)
 
 ## 📚 Papers
 
-### 📑  Survey
+### 📑 Survey
 
 - **Augmented Language Models: a Survey**, Preprint 2023.02 
 
@@ -194,7 +194,7 @@ Awesome papers and tools on tool learning.
   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2308.03688)]
 
 
-### ⏱️ Benchmark
+ <!--## ⏱️ Benchmark
 
 |     DataSet Name          | Quantity of Tools | Samples |
 | :-----------------------: | ----------------- | ------- |
@@ -202,12 +202,20 @@ Awesome papers and tools on tool learning.
 | [**moss-003-sft-plugin-data**](https://huggingface.co/datasets/fnlp/moss-003-sft-data/tree/main) | 4 | 300K |
 |  [**GPT4Tools**](https://drive.google.com/file/d/1JKIT-Or1of7TJuWvmrJpPoOx0cLdcWry/view?usp=share_link)  | 22 | 71K |
 |   [**Gorilla**](https://github.com/ShishirPatil/gorilla/tree/main/data/apibench)   | 1645 | 16450 |
+-->
 
+## ⏱️ Applications
 
-### 🎉 Contributors
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT)
+
+- [LangChain](https://github.com/langchain-ai/langchain): Building applications with LLMs through composability. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain)
+
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT): Revolutionizing Database Interactions with Private LLM Technology. ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT)
+
+## 🎉 Contributors
 
 <a href="https://github.com/luban-agi/Awesome-Tool-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=luban-agi/Awesome-Tool-Learning" />
+  <img src="https://contrib.rocks/image?repo=luban-agi/Awesome-Tool-Learning"/>
 
 </a>
 

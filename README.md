@@ -12,19 +12,19 @@ Awesome papers and tools on tool learning.
 
 ## 📜 Table of Contents
 
-- [Papers](#-papers)
+- [📚 Papers](#-papers)
 
-  - [Survey](#-survey)
+  - [📑 Survey](#-survey)
 
-  - [Tool Use Via Fine-tuning](#-tool-use-via-fine-tuning)
+  - [🏋️‍♂️ Tool Use Via Fine-tuning](#-tool-use-via-fine-tuning)
 
-  - [Tool Use Via In-Context Learning](#-tool-use-via-in-context-learning)
+  - [📖 Tool Use Via In-Context Learning](#-tool-use-via-in-context-learning)
 
-  - [Evalution](#-evalution)
+  - [🧪 Evalution](#-evalution)
 
-- [Applications](#-applications)
+- [📱 Applications](#-applications)
 
-- [Contributors](#-contributors)
+- [🎉 Contributors](#-contributors)
 
 ## 📚 Papers
 
@@ -204,7 +204,7 @@ Awesome papers and tools on tool learning.
 |   [**Gorilla**](https://github.com/ShishirPatil/gorilla/tree/main/data/apibench)   | 1645 | 16450 |
 -->
 
-## ⏱️ Applications
+## 📱 Applications
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT): An experimental open-source attempt to make GPT-4 fully autonomous. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT)
 

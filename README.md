@@ -27,9 +27,8 @@ Awesome papers and tools on tool learning.
 
 ### 📑 Survey
 
-- **Augmented Language Models: a Survey**, Preprint 2023.02 
-
-  *Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.07842)]
+- **Augmented Language Models: a Survey**, Preprint 2023.02 <br />
+Grégoire Mialon, Roberto Dessì, Maria Lomeli, Christoforos Nalmpantis, Ram Pasunuru, Roberta Raileanu, Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu, Asli Celikyilmaz, Edouard Grave, Yann LeCun, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.07842)]
 
 - **Tool Learning with Foundation Models**, Preprint 2023.04 
 

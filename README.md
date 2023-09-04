@@ -101,7 +101,7 @@ Andres M Bran, Sam Cox, Andrew D White, Philippe Schwaller* [[pdf](https://arxiv
 Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* [[pdf](https://arxiv.org/abs/2304.09667)]
 
 - **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** Preprint 2023.04 <br />
-Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao* [[pdf](https://arxiv.org/abs/2304.09842)],[[github](https://chameleon-llm.github.io/)]
+Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao* [[pdf](https://arxiv.org/abs/2304.09842)] [[github](https://chameleon-llm.github.io/)]
 
 - **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models** Preprint 2023.05 <br />
 Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen* [[pdf](https://arxiv.org/abs/2305.14323)]
@@ -110,16 +110,16 @@ Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen* 
 Cheng Qian, Chi Han, Yi R. Fung, Yujia Qin, Zhiyuan Liu, Heng Ji* [[pdf](https://arxiv.org/abs/2305.14318)]
 
 - **Large Language Models as Tool Makers** Preprint 2023.05 <br />
-Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou* [[pdf](https://arxiv.org/abs/2305.17126)],[[github](https://github.com/ctlllll/LLM-ToolMaker)]
+Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou* [[pdf](https://arxiv.org/abs/2305.17126)] [[github](https://github.com/ctlllll/LLM-ToolMaker)]
 
 - **MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting** ACL 2023.05 <br />
-Tatsuro Inaba, Hirokazu Kiyomaru, Fei Cheng, Sadao Kurohashi* [[pdf](https://arxiv.org/abs/2305.16896)],[[project](https://github.com/InabaTatsuro/MultiTool-CoT)]
+Tatsuro Inaba, Hirokazu Kiyomaru, Fei Cheng, Sadao Kurohashi* [[pdf](https://arxiv.org/abs/2305.16896)] [[project](https://github.com/InabaTatsuro/MultiTool-CoT)]
 
 - **RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs** Preprint 2023.06 <br />
 Yifan Song, Weimin Xiong, Dawei Zhu, Cheng Li, Ke Wang, Ye Tian, Sujian Li* [[pdf](https://arxiv.org/abs/2306.06624)]
 
 - **AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn** Preprint 2023.06 <br />
-Difei Gao, Lei Ji, Luowei Zhou, Kevin Qinghong Lin, Joya Chen, Zihan Fan, Mike Zheng Shou* [[pdf](https://arxiv.org/abs/2306.08640)],[[project](https://showlab.github.io/assistgpt/)]
+Difei Gao, Lei Ji, Luowei Zhou, Kevin Qinghong Lin, Joya Chen, Zihan Fan, Mike Zheng Shou* [[pdf](https://arxiv.org/abs/2306.08640)] [[project](https://showlab.github.io/assistgpt/)]
 
 - **GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution** Preprint 2023.07 <br />
 Yining Lu, Haoping Yu, Daniel Khashabi* [[pdf](https://arxiv.org/abs/2307.08775)]

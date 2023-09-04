@@ -45,7 +45,7 @@ Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina K
 Aaron Parisi, Yao Zhao, Noah Fiedel* [[pdf](https://arxiv.org/abs/2205.12255)]
 
 - **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** NeurIPS 2022.07 <br />
-Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan* [[pdf](https://arxiv.org/abs/2207.01206)],[[github](https://webshop-pnlp.github.io/)]
+Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan* [[pdf](https://arxiv.org/abs/2207.01206)] [[github](https://webshop-pnlp.github.io/)]
 
 - **Toolformer: Language Models Can Teach Themselves to Use Tools** Preprint 2023.02 <br />
 Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom* [[pdf](https://arxiv.org/abs/2302.04761)]
@@ -66,7 +66,7 @@ Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang* [[pdf](https://arxiv.org/a
 Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez* [[pdf](https://arxiv.org/abs/2305.15334)]
 
 - **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction** Preprint 2023.05 <br />
-Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan* [[pdf](https://arxiv.org/abs/2305.18752)],[[github](https://github.com/StevenGrove/GPT4Tools)]
+Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li, Ying Shan* [[pdf](https://arxiv.org/abs/2305.18752)] [[github](https://github.com/StevenGrove/GPT4Tools)]
 
 - **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases** Preprint 2023.06 <br />
 Qiaoyu Tang, Ziliang Deng, Hongyu Lin, Xianpei Han, Qiao Liang, Le Sun* [[pdf](https://arxiv.org/abs/2306.05301)]
@@ -77,7 +77,7 @@ Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yux
 ### 📖 Tool Use via In-Context Learning
 
 - **PAL: Program-aided Language Models** Preprint 2022.11 <br />
-Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* [[pdf](https://arxiv.org/abs/2211.10435)],[[github](https://reasonwithpal.com/)]
+Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig* [[pdf](https://arxiv.org/abs/2211.10435)] [[github](https://reasonwithpal.com/)]
 
 - **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** Preprint 2022.11 <br />
 Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen* [[pdf](https://arxiv.org/abs/2211.12588)]

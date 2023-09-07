@@ -11,7 +11,7 @@
 ![](https://img.shields.io/github/last-commit/luban-agi/Awesome-Tool-Learning) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-Awesome papers and tools on tool learning.
+Awesome papers and applications on tool learning.
 
 ## 📜 Table of Contents
 
@@ -135,6 +135,9 @@ Awesome papers and tools on tool learning.
 
 ### 🧪 Evalution
 
+- **tool_use_benchmark** [[github](https://github.com/luban-agi/tool_use_benchmark)]  <br />
+A large-scale benchmark for tool use, including four English tool-use datasets and one Chinese tool-use dataset.
+
 - **API-Bank: A Benchmark for Tool-Augmented LLMs** Preprint 2023.04 <br />
 *Minghao Li, Feifan Song, Bowen Yu, Haiyang Yu, Zhoujun Li, Fei Huang, Yongbin Li* [[pdf](https://arxiv.org/abs/2306.08640)]
 
@@ -152,7 +155,6 @@ Awesome papers and tools on tool learning.
 
 - **AgentBench: Evaluating LLMs as Agents** Preprint 2023.08 <br />
 *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2308.03688)]
-
 
  <!--## ⏱️ Benchmark
 

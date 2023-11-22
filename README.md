@@ -156,6 +156,9 @@ A large-scale benchmark for tool use, including four English tool-use datasets a
 - **AgentBench: Evaluating LLMs as Agents** Preprint 2023.08 <br />
 *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2308.03688)]
 
+- **ToolTalk: Evaluating Tool-Usage in a Conversational Setting** Preprint 2023.11 <br />
+*Nicholas Farn, Richard Shin* [[pdf](https://arxiv.org/abs/2311.10775)]
+
  <!--## ⏱️ Benchmark
 
 |     DataSet Name          | Quantity of Tools | Samples |

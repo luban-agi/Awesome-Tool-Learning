@@ -159,6 +159,9 @@ A large-scale benchmark for tool use, including four English tool-use datasets a
 - **ToolTalk: Evaluating Tool-Usage in a Conversational Setting** Preprint 2023.11 <br />
 *Nicholas Farn, Richard Shin* [[pdf](https://arxiv.org/abs/2311.10775)]
 
+- **TaskBench: BENCHMARKING LARGE LANGUAGE MODELS FOR TASK AUTOMATION** Preprint 2023.11 <br />
+*Yongliang Shen1, Kaitao Song, et.al.*,  [[pdf](https://arxiv.org/abs/2311.18760)]
+
  <!--## ⏱️ Benchmark
 
 |     DataSet Name          | Quantity of Tools | Samples |

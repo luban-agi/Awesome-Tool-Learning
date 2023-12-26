@@ -162,6 +162,9 @@ A large-scale benchmark for tool use, including four English tool-use datasets a
 - **TaskBench: BENCHMARKING LARGE LANGUAGE MODELS FOR TASK AUTOMATION** Preprint 2023.11 <br />
 *Yongliang Shen1, Kaitao Song, et.al.*,  [[pdf](https://arxiv.org/abs/2311.18760)]
 
+- **T-Eval: Evaluating the Tool Utilization Capability Step by Step** Preprint 2023.12 <br />
+*Zehui Chen, Feng Zhao, et.al.*,  [[pdf](https://arxiv.org/abs/2312.14033)]
+
  <!--## ⏱️ Benchmark
 
 |     DataSet Name          | Quantity of Tools | Samples |

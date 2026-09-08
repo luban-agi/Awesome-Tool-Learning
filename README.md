@@ -74,6 +74,9 @@ Awesome papers and applications on tool learning.
 - **WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences** KDD 2023.06 <br />
 *Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2306.07906)]
 
+- **Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report** Preprint 2026.08 <br />
+*TaoLive AIGC LLM Team* [[pdf](https://arxiv.org/abs/2608.15763)]
+
 ### 📖 Tool Use via In-Context Learning
 
 - **PAL: Program-aided Language Models** Preprint 2022.11 <br />

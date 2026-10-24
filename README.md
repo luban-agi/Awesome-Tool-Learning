@@ -74,6 +74,9 @@ Awesome papers and applications on tool learning.
 - **WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences** KDD 2023.06 <br />
 *Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yuxiao Dong, Jie Tang* [[pdf](https://arxiv.org/abs/2306.07906)]
 
+- **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** Preprint 2026.01 <br />
+*Xingjie Gao, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Chen Qian, Ge Yu, Yu Gu* [[pdf](https://arxiv.org/abs/2601.12762)] [[github](https://github.com/NEUIR/ToolMaster)]
+
 ### 📖 Tool Use via In-Context Learning
 
 - **PAL: Program-aided Language Models** Preprint 2022.11 <br />
